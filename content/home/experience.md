@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Assistant"
+  company = "USC Institute for Creative Technologies"
+  company_url = "https://ict.usc.edu/"
+  location = "Los Angeles, California"
+  date_start = "2020-08-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = ""
+
+[[experience]]
+  title = "Research Intern"
+  company = "Center for Vision Technologies, SRI International"
+  company_url = "https://www.sri.com/computer-vision/"
+  location = "Princeton, New Jersey"
+  date_start = "2020-06-01"
+  date_end = "2020-09-01"
+  description = """  
+  I had two great months working at SRI with <a href="https://www.sri.com/bios/bogdan-matei/">Bogdan Matei</a> and Qiao Wang. During that time, I developed a 3D point cloud completing method for street-view Lidar data, based on neural networks for 3D completion.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistant"
+  company = "Graphics & Geometric Computing Group, Tsinghua University"
+  company_url = "https://cg.cs.tsinghua.edu.cn/"
+  location = "Beijing, China"
+  date_start = "2017-08-01"
+  date_end = "2019-06-01"
+  description = ""
 
 +++
