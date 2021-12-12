@@ -17,9 +17,10 @@ organizations:
 bio: ""
 
 interests:
-- Human Digitalization & Animation
+- Neural Rendering
 - 3D Reconstruction
-- Rendering
+- Human Digitalization & Animation
+- Physically-Based Simulation
 #- <span style="color:white">Playing Video Games.</span>
 
 
@@ -36,6 +37,9 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
+  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: google
+  icon_pack: fab
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
@@ -59,6 +63,6 @@ user_groups:
 - Visitors
 ---
 
-I'm Zhengfei Kuang (匡正非), a second-year Ph.D. student at the University of Southern California, advised by <a href="https://www.hao-li.com/">Prof. Hao Li</a>. Before USC, I was studying at <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a>. I also worked as a research assistant in the <a href="https://cg.cs.tsinghua.edu.cn/">Graphics & Geometric Computing Group</a> from 2017 to 2019, advised by <a href="https://cg.cs.tsinghua.edu.cn/#people.htm">Prof. Shimin Hu</a>. 
+I'm Zhengfei Kuang (匡正非), a third-year Ph.D. student at the University of Southern California, advised by <a href="https://www.hao-li.com/">Prof. Hao Li</a>. Before USC, I was studying at <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a>. I also worked as a research assistant in the <a href="https://cg.cs.tsinghua.edu.cn/">Graphics & Geometric Computing Group</a> from 2017 to 2019, advised by <a href="https://cg.cs.tsinghua.edu.cn/#people.htm">Prof. Shimin Hu</a>. 
 
 Here's my {{% staticref "files/CV.pdf" "newtab" %}}Curriculum Vitae{{% /staticref %}}.

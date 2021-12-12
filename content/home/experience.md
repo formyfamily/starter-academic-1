@@ -17,13 +17,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research Intern"
+  company = "Creative Vision Group, Snap Inc."
+  company_url = "https://research.snap.com/"
+  location = "Los Angeles, California"
+  date_start = "2021-07-01"
+  date_end = "2021-12-01"
+  description = """  
+  I spent five great months working at Snap with <a href="https://kyleolsz.github.io/">Kyle Olszewski</a>, <a href="https://mlchai.com/">Menglei Chai</a>, <a href="https://zeng.science/">Zeng Huang</a> and <a href="http://www.stulyakov.com/">Sergey Tulyakov</a>. I designed a two-stage NeRF-based model to reconstruct and rerender objects from online image collections.
+  """
+  
 [[experience]]
   title = "Research Assistant"
   company = "USC Institute for Creative Technologies"
   company_url = "https://ict.usc.edu/"
   location = "Los Angeles, California"
   date_start = "2020-08-01"
-  date_end = ""
+  date_end = "2021-06-01"
   description = ""
 
 [[experience]]
