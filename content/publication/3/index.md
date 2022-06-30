@@ -21,10 +21,10 @@ publishDate: "2020-11-13"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Siggraph Asia 2020"
+publication: "ACM SIGGRAPH Asia 2020"
 publication_short: ""
 
 abstract: The creation of high-fidelity computer-generated (CG) characters used in film and gaming requires intensive manual labor and a comprehensive set of facial assets to be captured with complex hardware, resulting in high cost and long production cycles. In order to simplify and accelerate this digitization process, we propose a framework for the automatic generation of high-quality dynamic facial assets, including rigs which can be readily deployed for artists to polish. Our framework takes a single scan as input to generate a set of personalized blendshapes, dynamic and physically-based textures, as well as secondary facial components (e.g., teeth and eyeballs). Built upon a facial database consisting of pore-level details, with over 4,000 scans of varying expressions and identities, we adopt a self-supervised neural network to learn personalized blendshapes from a set of template expressions. We also model the joint distribution between identities and expressions, enabling the inference of the full set of personalized blendshapes with dynamic appearances from a single neutral input scan. Our generated personalized face rig assets are seamlessly compatible with cutting-edge industry pipelines for facial animation and rendering. We demonstrate that our framework is robust and effective by inferring on a wide range of novel subjects, and illustrate compelling rendering results while animating faces with generated customized physically-based dynamic textures.

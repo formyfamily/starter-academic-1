@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Research Intern"
+  company = "Adobe Research"
+  company_url = "https://research.snap.com/"
+  location = "San Jose, California"
+  date_start = "2022-05-16"
+  date_end = ""
+  description = """  
+  I'm working at Adobe with <a href="https://luanfujun.github.io/">Fujun Luan</a>, <a href="https://zhixinshu.github.io/">Zhixin Shu</a>, <a href="https://sai-bi.github.io/">Sai Bi</a> and <a href="http://www.kalyans.org/"> Kalyan Sunkavali</a> on NeRF-based decomposition method.
+  """
 
 [[experience]]
   title = "Research Intern"

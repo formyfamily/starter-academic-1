@@ -88,7 +88,7 @@ show_related = {book = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zkuang@usc.edu"
+email = "zhengfei@stanford.edu"
 phone = ""
 
 # Address
@@ -97,7 +97,7 @@ address = {}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.021719", longitude = "-118.286364"}
+coordinates = {latitude = "37.4302", longitude = "-122.1694"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -113,8 +113,8 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "zfkuang1", link = "https://twitter.com/zfkuang1"},
-  {icon = "facebook", icon_pack = "fab", name = "Zheng-Fei Kuang", link = "https://www.facebook.com/zhengfei.kuang"},
-  {icon = "skype", icon_pack = "fab", name = "Zhengfei Kuang", link = "skype:Zhengfei Kuang?chat"},
+  # {icon = "facebook", icon_pack = "fab", name = "Zheng-Fei Kuang", link = "https://www.facebook.com/zhengfei.kuang"},
+  # {icon = "skype", icon_pack = "fab", name = "Zhengfei Kuang", link = "skype:Zhengfei Kuang?chat"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
