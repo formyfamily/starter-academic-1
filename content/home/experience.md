@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://research.snap.com/"
   location = "San Jose, California"
   date_start = "2022-05-16"
-  date_end = ""
+  date_end = "2022-08-10"
   description = """  
   I'm working at Adobe with <a href="https://luanfujun.github.io/">Fujun Luan</a>, <a href="https://zhixinshu.github.io/">Zhixin Shu</a>, <a href="https://sai-bi.github.io/">Sai Bi</a> and <a href="http://www.kalyans.org/"> Kalyan Sunkavali</a> on NeRF-based decomposition method.
   """

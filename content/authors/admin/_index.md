@@ -10,7 +10,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southern California
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,7 +20,7 @@ interests:
 - Neural Rendering
 - 3D Reconstruction
 - Human Digitalization & Animation
-- Physically-Based Simulation
+# - Physically-Based Simulation
 #- <span style="color:white">Playing Video Games.</span>
 
 
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zhengfei@stanford.org'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:zhengfei@stanford.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google
   icon_pack: fab
   link: 'https://scholar.google.com/citations?user=ffRKNDoAAAAJ&hl=zh-CN'  # For a direct email link, use "mailto:test@example.org".
@@ -66,9 +66,7 @@ user_groups:
 - Visitors
 ---
 
-I'm Zhengfei Kuang (匡正非), a third-year Ph.D. student at the University of Southern California, advised by <a href="https://www.hao-li.com/">Prof. Hao Li</a>. Before USC, I was studying at <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a>. I also worked as a research assistant in the <a href="https://cg.cs.tsinghua.edu.cn/">Graphics & Geometric Computing Group</a> from 2017 to 2019, advised by <a href="https://cg.cs.tsinghua.edu.cn/#people.htm">Prof. Shimin Hu</a>. 
-
-<b>Updates (06/2022): </b> I guaduated at USC as master and will transfer to Stanford as a new Ph.D. student this Fall. A brand new Ph.D. career! <b> :P</b> 
+I'm Zhengfei Kuang (匡正非), a first-year Ph.D. student at Stanford University. Before Stanford, I was studying at the University of Southern California and Tsinghua University. I also worked as a research assistant in the <a href="https://ict.usc.edu/">USC Institute for Creative Technologies</a> from 2019 to 2022, advised by <a href="https://cg.cs.tsinghua.edu.cn/#people.htm">Prof. Hao Li</a>, and worked as a research assistant in the <a href="https://cg.cs.tsinghua.edu.cn/">Graphics & Geometric Computing Group</a> from 2017 to 2019, advised by <a href="https://cg.cs.tsinghua.edu.cn/#people.htm">Prof. Shimin Hu</a>. 
 
 Here's my {{% staticref "files/CV.pdf" "newtab" %}}Curriculum Vitae{{% /staticref %}}.
 
