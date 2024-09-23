@@ -17,6 +17,7 @@ organizations:
 bio: ""
 
 interests:
+- Video & 3D Diffusion Model
 - Neural Rendering
 - 3D Reconstruction
 - Human Digitalization & Animation
@@ -66,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I'm Zhengfei Kuang (匡正非), a first-year Ph.D. student at Stanford University. Before Stanford, I was studying at the University of Southern California and Tsinghua University. I also worked as a research assistant in the <a href="https://ict.usc.edu/">USC Institute for Creative Technologies</a> from 2019 to 2022, advised by <a href="https://cg.cs.tsinghua.edu.cn/#people.htm">Prof. Hao Li</a>, and worked as a research assistant in the <a href="https://cg.cs.tsinghua.edu.cn/">Graphics & Geometric Computing Group</a> from 2017 to 2019, advised by <a href="https://cg.cs.tsinghua.edu.cn/#people.htm">Prof. Shimin Hu</a>. 
+I'm Zhengfei Kuang (匡正非), a third-year Ph.D. student at the Stanford University, primally advised by <a href=https://stanford.edu/~gordonwz> Prof. Gordon Wetzstein</a>. Before Stanford, I was studying at the University of Southern California and Tsinghua University. I also worked as a research assistant in the <a href="https://ict.usc.edu/">USC Institute for Creative Technologies</a> from 2019 to 2022, advised by <a href="https://cg.cs.tsinghua.edu.cn/#people.htm">Prof. Hao Li</a>, and worked as a research assistant in the <a href="https://cg.cs.tsinghua.edu.cn/">Graphics & Geometric Computing Group</a> from 2017 to 2019, advised by <a href="https://cg.cs.tsinghua.edu.cn/#people.htm">Prof. Shimin Hu</a>. 
 
 Here's my {{% staticref "files/CV.pdf" "newtab" %}}Curriculum Vitae{{% /staticref %}}.
 

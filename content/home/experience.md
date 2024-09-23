@@ -17,15 +17,35 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Research Intern"
   company = "Adobe Research"
-  company_url = "https://research.snap.com/"
+  location = "San Jose, California"
+  date_start = "2024-06-25"
+  date_end = ""
+  description = """  
+  I'm working at Adobe with <a href="https://luanfujun.github.io/">Fujun Luan</a> and <a href="http://www.miloshasan.net/"> Miloš Hašan</a>.
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "Epic Games"
+  location = "Larkspur, California"
+  date_start = "2023-06-30"
+  date_end = "2023-12-31"
+  description = """  
+  I worked at Epic Games with <a href="https://christophlassner.de/">Christoph Lassner</a> and <a href="https://www.linkedin.com/in/jihun-yu-260bb17">Jihun Yu</a> on NeRF-Based Human Avatar Interpolation Model.
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "Adobe Research"
   location = "San Jose, California"
   date_start = "2022-05-16"
   date_end = "2022-08-10"
   description = """  
-  I'm working at Adobe with <a href="https://luanfujun.github.io/">Fujun Luan</a>, <a href="https://zhixinshu.github.io/">Zhixin Shu</a>, <a href="https://sai-bi.github.io/">Sai Bi</a> and <a href="http://www.kalyans.org/"> Kalyan Sunkavali</a> on NeRF-based decomposition method.
+  I worked at Adobe with <a href="https://luanfujun.github.io/">Fujun Luan</a>, <a href="https://zhixinshu.github.io/">Zhixin Shu</a>, <a href="https://sai-bi.github.io/">Sai Bi</a> and <a href="http://www.kalyans.org/"> Kalyan Sunkavali</a> on NeRF-based decomposition method.
   """
 
 [[experience]]
